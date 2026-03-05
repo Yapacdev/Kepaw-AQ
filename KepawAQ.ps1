@@ -4,8 +4,8 @@
 # Moves the mouse slightly every 60 seconds
 # AND uses SetThreadExecutionState to block
 # Windows from sleeping or turning off the screen.
-# Run as: Right-click > Run with PowerShell
-# Stop with: Ctrl+C in the window
+# 
+# Author: Yapacdev
 # ============================================
 
 Add-Type @"
