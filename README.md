@@ -16,6 +16,6 @@ Prevent Windows from going to sleep or turning off the display using PowerShell.
 
 ## Usage
 
-### Run the kepawAQ_Luncher.bat and make sure the KepawAQ.ps1 exists in the same folder
+##### Run the kepawAQ_Luncher.bat and make sure the KepawAQ.ps1 exists in the same folder
 
-### Type Ctrl+C to stop the Script
+##### Type Ctrl+C to stop the Script
